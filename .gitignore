@@ -1,0 +1,8 @@
+# Virtual Environnement
+/Project1Env
+
+# Byte-compiled
+__pycache__/
+
+# database
+db.sqlite3
